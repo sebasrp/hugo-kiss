@@ -4,7 +4,7 @@
 
 hugo-kiss is a Hugo theme written as an experiment. While looking for hugo themes, I couldn't really find anything that was simple, hackable, and that was minimalist and light. So I created this theme! It's supposed to follow the KISS (Keep It Simple, Stupid) principle. Main requiremetns were to for it to me minimalist, small in size and reactive.
 
-I will probably add things like commetns etc in a later time.
+The initial version of the theme was based out of my first theme [archie](https://github.com/athul/archie).
 
 ## Installation
 
