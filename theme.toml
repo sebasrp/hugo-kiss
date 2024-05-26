@@ -1,0 +1,18 @@
+name = 'hugo-kiss'
+license = 'MIT'
+licenselink = 'https://github.com/sebasrp/hugo-kiss/LICENSE'
+description = 'KISS (Keep It Simple, Stupid) hugo theme'
+
+homepage = 'https://github.com/sebasrp/hugo-kiss'
+
+# If you have a running demo of the theme
+demosite = 'https://owner.github.io/repo'
+
+# Taxonomy terms
+tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
+features = ['blog']
+
+# If the theme has a single author
+[author]
+  name = 'Sebastian Rodriguez'
+  homepage = 'https://sebasr.com'
