@@ -165,18 +165,14 @@
   /* Footer */
   footer {
     display: flex;
+    justify-content: space-between;
     align-items: center;
     border-top: 1px dashed var(--darkMaincolor);
     padding: 1rem 0rem;
     margin-top: 2rem;
   }
   .soc {
-    display: flex;
-    align-items: center;
     border-bottom: none;
-  }
-  .soc:hover {
-    color: black;
   }
   .border {
     margin-left: 0.5rem;
@@ -185,6 +181,9 @@
   }
   .footer-info {
     padding: var(--footer-padding);
+  }
+  .footer-socials {
+    float: right;
   }
 
   /* Common */
