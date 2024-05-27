@@ -2,6 +2,7 @@
   --maincolor: red;
   --bordercl:#9e86c8;
   --darkMaincolor: #50fa7b;
+  --lightGray: #ABABAB;
   }
 
   html {
@@ -36,7 +37,7 @@
 
   blockquote {
     border-left: 1px solid var(--bordercl);
-    color: #737373;
+    color: var(--lightGray);
     border-color:  var(--darkMaincolor);
     margin: 0;
     padding-left: 1em;
@@ -158,7 +159,7 @@
   h6::before { color: var(--darkMaincolor); content: '###### '; }
 
   .meta {
-    color: #ABABAB;
+    color: var(--lightGray);;
     letter-spacing: -0.5px;
   }
 
@@ -192,7 +193,7 @@
   }
 
   time {
-    color: #ABABAB;
+    color: var(--lightGray);;
   }
 
   /* Posts */
