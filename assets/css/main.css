@@ -1,6 +1,6 @@
 :root{
   --maincolor: red;
-  --bordercl:rebeccapurple;
+  --bordercl:#9e86c8;
   --darkMaincolor: #50fa7b;
   }
 
@@ -18,7 +18,7 @@
   }
 
   ::selection {
-    background: red;
+    background: #b05279;
     color: #fff;
     text-shadow: none;
   }
